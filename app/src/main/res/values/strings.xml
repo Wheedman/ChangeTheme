@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChangeTheme</string>
+
+    <!-- Preference -->
+    <string name="pref_bc">Colors</string>
+    <string name="pref_bc_def">light</string>
+    <string name="pref_bc_key">themeList</string>
+    <string name="pref_bc_text">Theme</string>
+</resources>
